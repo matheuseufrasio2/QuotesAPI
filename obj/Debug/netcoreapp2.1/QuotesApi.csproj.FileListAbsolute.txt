@@ -1,0 +1,16 @@
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.deps.json
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.runtimeconfig.json
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.runtimeconfig.dev.json
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.dll
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\bin\Debug\netcoreapp2.1\QuotesApi.pdb
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.csprojAssemblyReference.cache
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.RazorAssemblyInfo.cache
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.RazorAssemblyInfo.cs
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.AssemblyInfoInputs.cache
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.AssemblyInfo.cs
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.dll
+C:\Users\Matheus Eufrásio\source\repos\APIS\QuotesApi\obj\Debug\netcoreapp2.1\QuotesApi.pdb
